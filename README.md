@@ -1,1 +1,1 @@
-# Movie-Catalogue-Application
+# Movie Catalogue Application
