@@ -1,0 +1,27 @@
+QLabel {
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+QPushButton {
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 4px;
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+QRadioButton {
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: underline;
+}
+
+QLineEdit {
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}

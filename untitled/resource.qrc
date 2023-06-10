@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/resources">
+        <file>img/AnimeXTyan_024.webp</file>
+        <file>styles/style.css</file>
+    </qresource>
+</RCC>
